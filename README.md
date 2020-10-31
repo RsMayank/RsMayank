@@ -1,7 +1,8 @@
 ### Hi there! I am [Mayank][3] 👋
 
+** Check My [Portofolio][4]
+
 # 👨🏻‍💻 About Me
-Check My [Portofolio][4].
 - 📈 I'm Machine Learnig Enthusiast...
 - 🔭 I’m currently Pursuing B.Tech in Computer Science...
 - 🌱 I’m currently learning Machine Learning Tools And Algorithms...
@@ -22,7 +23,7 @@ You can find me on [![Twitter][1.2]][1]
 
 [1]: https://twitter.com/rs_mayank
 [3]: https://www.linkedin.com/in/rsMayank/
-[4]: https:rsmayank.github.io
+[4]: https://rsmayank.github.io
 
 
 # 🛠 Languages and Tools
